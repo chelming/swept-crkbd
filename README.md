@@ -1,3 +1,6 @@
+# Fork changes
+This fork adds magnet holes to the cases for 8mm circular magnets. I did it in Tinkercad so it's not perfect, so it works. For the puck, you can use a 1/4-20 brass heat set insert to mount it to a tripod. I got these on Amazon for $7USD.
+
 # Swept Corne
 ## This board designed is now stable and has reached maintenance mode.
 
